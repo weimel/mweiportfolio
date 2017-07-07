@@ -41,3 +41,16 @@ li {
     padding: auto;
 
 }
+
+a {
+    text-decoration: underline;
+    color: inherit;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #6666ff;
+}
